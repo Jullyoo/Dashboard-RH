@@ -1,0 +1,71 @@
+ID_Registro,ID_Funcionario,Data,Motivo,Horas_Faltantes
+1,16,2024-06-23,Doença,4
+2,63,2024-05-15,Doença,4
+3,40,2024-05-23,Problema Familiar,4
+4,65,2024-08-05,Doença,4
+5,18,2024-11-19,Consulta Médica,16
+6,36,2024-09-15,Falta Injustificada,8
+7,10,2024-05-07,Problema Familiar,16
+8,31,2024-08-02,Problema Familiar,4
+9,53,2024-08-29,Consulta Médica,16
+10,44,2024-09-27,Consulta Médica,16
+11,35,2025-03-02,Pessoal,4
+12,56,2025-03-17,Pessoal,4
+13,21,2024-05-30,Problema Familiar,4
+14,21,2025-01-02,Problema Familiar,16
+15,51,2025-01-15,Falta Injustificada,4
+16,66,2024-05-12,Consulta Médica,4
+17,28,2024-11-14,Falta Injustificada,8
+18,9,2024-05-04,Consulta Médica,8
+19,5,2024-08-16,Falta Injustificada,4
+20,19,2024-09-18,Falta Injustificada,16
+21,65,2024-11-17,Pessoal,16
+22,1,2024-12-15,Falta Injustificada,4
+23,42,2024-08-20,Problema Familiar,4
+24,34,2024-06-14,Doença,4
+25,43,2024-05-11,Falta Injustificada,16
+26,27,2024-06-12,Pessoal,8
+27,69,2025-03-06,Pessoal,8
+28,9,2024-08-14,Pessoal,8
+29,52,2025-04-12,Pessoal,8
+30,23,2025-01-11,Pessoal,4
+31,66,2024-05-17,Problema Familiar,8
+32,28,2024-10-19,Doença,16
+33,56,2025-01-20,Pessoal,4
+34,3,2025-03-05,Pessoal,4
+35,20,2024-09-18,Pessoal,16
+36,60,2024-09-26,Problema Familiar,8
+37,36,2024-06-03,Consulta Médica,8
+38,37,2025-01-22,Falta Injustificada,8
+39,20,2024-12-27,Falta Injustificada,4
+40,69,2024-11-04,Doença,4
+41,21,2024-12-03,Consulta Médica,16
+42,50,2024-06-03,Consulta Médica,16
+43,66,2025-04-15,Falta Injustificada,8
+44,40,2024-09-15,Falta Injustificada,16
+45,3,2024-04-25,Doença,16
+46,38,2025-01-02,Doença,8
+47,52,2025-01-22,Pessoal,8
+48,18,2025-03-26,Falta Injustificada,8
+49,29,2024-10-24,Consulta Médica,8
+50,41,2024-09-29,Doença,8
+51,34,2025-01-07,Pessoal,16
+52,45,2024-10-03,Doença,8
+53,33,2024-07-24,Problema Familiar,16
+54,67,2025-04-11,Consulta Médica,16
+55,19,2024-10-04,Falta Injustificada,8
+56,43,2024-11-11,Doença,4
+57,69,2024-07-08,Pessoal,16
+58,38,2024-08-25,Consulta Médica,16
+59,45,2024-10-23,Problema Familiar,8
+60,17,2024-06-05,Consulta Médica,8
+61,31,2025-02-07,Doença,4
+62,11,2024-07-06,Doença,16
+63,32,2024-08-21,Doença,16
+64,49,2024-06-04,Falta Injustificada,4
+65,39,2024-05-23,Consulta Médica,4
+66,15,2025-02-28,Problema Familiar,8
+67,5,2025-02-14,Pessoal,16
+68,59,2024-06-16,Doença,8
+69,19,2024-10-31,Falta Injustificada,16
+70,42,2025-02-01,Falta Injustificada,4
