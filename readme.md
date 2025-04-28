@@ -19,7 +19,7 @@ Este projeto simula uma base de dados de Recursos Humanos com o objetivo de cria
 - Identificar padrões de desempenho, absenteísmo, promoções e treinamentos.
 - Explorar correlações entre dados, como impacto de treinamentos no desempenho.
 
-## 📌 Possíveis Insights
+## 📌 Insights
 
 - Funcionários com maior nota de desempenho.
 - Departamentos com maior índice de absenteísmo.
@@ -32,17 +32,12 @@ Este projeto simula uma base de dados de Recursos Humanos com o objetivo de cria
 - `Power BI` (Visualizações e análises)
 - `pandas` e `faker` (para geração e manipulação de dados)
 
-## 🚀 Como Usar
+## 🚀 Passo-a-passo realizado
 
-1. Clone este repositório.
-2. Abra os arquivos `.csv` ou `.xlsx` no Power BI Desktop.
-3. Relacione as tabelas conforme seus IDs (como ID_Funcionario, ID_Cargo etc).
-4. Crie suas medidas, gráficos e KPIs com base nos dados.
-5. Extraia os insights e compartilhe os resultados!
+1. 
 
 ## 📬 Contato
-
-Se quiser trocar ideias ou sugerir melhorias, fique à vontade para entrar em contato!  
+ 
 📧 julio.guimaraes2020@outlook.com  
 💼 [LinkedIn](https://www.linkedin.com/in/j-guimaraes/)
 
