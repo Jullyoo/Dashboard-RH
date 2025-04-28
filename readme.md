@@ -27,14 +27,24 @@ Este projeto simula uma base de dados de Recursos Humanos com o objetivo de cria
 
 ## 🛠️ Tecnologias Utilizadas
 
-- `Python` (Geração de dados fictícios com pandas, Faker)
+- `Python` (Para Analise de dados)
 - `Power Query` (ETL e tratamento de dados)
 - `Power BI` (Visualizações e análises)
-- `pandas` e `faker` (para geração e manipulação de dados)
+- `pandas` (para manipulação de dados)
 
 ## 🚀 Passo-a-passo realizado
 
-1. 
+1. Separar os dados fato x dimensão a partir de uma planilha unificada, gerando novos arquivos .csv.
+
+2. Transformar os dados e organiza-los em tabelas especificas: Funcionarios, Treinamentos, Promoções, Horas extras, Absenteísmo, Desempenho e Benefícios.
+
+3. Criar colunas de relacionamento como ID_Funcionarios, ID_Cargo e estabelecer as relações entre as planilhas.
+
+4. Ajustar formatos de dados e corrigir tipos de dados para garantir consistência.
+   
+5. Criar medidas DAX.
+
+6. Criar o Dashboard.
 
 ## 📬 Contato
  
